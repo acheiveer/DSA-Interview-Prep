@@ -27,6 +27,7 @@ Linear Arrays: O(n) where n is the size of array
 Commom Techniques:
 
 1. Two Pointer: Used when dealing with soretd arrays or pairs in arrays
+                                                                                LeetCode Questions
               Pattern 1: Two Pointers - Converging (Sorted Array Target Sum) :  1. Two Sum, 11. Container With Most Water, 15. 3Sum, 16. 3Sum Closest, 18. 4Sum, 167. Two Sum II - Input Array Is Sorted, 349. Intersection of Two Arrays, 881. Boats to Save People, 977. Squares of a Sorted Array, 259. 3Sum Smaller
               Pattern 2: Two Pointers - Fast & Slow (Cycle Detection):          141. Linked List Cycle, 202. Happy Number, 287. Find the Duplicate Number, 392. Is Subsequence, 
               Pattern 3: Two Pointers - Fixed Separation (Nth Node from End):   19. Remove Nth Node From End of List, 876. Middle of the Linked List, 2095. Delete the Middle Node of a Linked List 
